@@ -1,6 +1,7 @@
 img{
   width: 300px;
   float: left;
+  padding: 4px;
 }
 
 .intro{
@@ -14,18 +15,24 @@ img{
   width: 300px;
   float: left;
   text-align: center;
-  margin-left: 50px;
+  margin-left: 150px;
+  border: 4px dotted red;
 }
 h2{
   text-align: center;
+
 }
 h1{
   text-align: center;
+  border: 10px solid red;
 }
  .sidebar {
-   width: 30%;
+   width: 15%;
    float: right;
    background-color: yellow;
    font-size: 20px;
    font-style: italic;
+   border: 2px solid green;
+   margin: 2px;
+   padding: 10px;
  }
