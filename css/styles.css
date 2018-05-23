@@ -1,0 +1,31 @@
+img{
+  width: 300px;
+  float: left;
+}
+
+.intro{
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.column{
+  font-size: 20px;
+  font-family: cursive;
+  width: 300px;
+  float: left;
+  text-align: center;
+  margin-left: 50px;
+}
+h2{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+ .sidebar {
+   width: 30%;
+   float: right;
+   background-color: yellow;
+   font-size: 20px;
+   font-style: italic;
+ }
